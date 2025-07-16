@@ -31,6 +31,7 @@ Bu proje, Python ve Tkinter kullanarak yapılmış basit bir YouTube video ve se
 ```bash
 git clone https://github.com/kaanyagizkilinc/Youtube-Downloader-Bot.git
 cd youtube-downloader-bot
+cd Türkçe
 python overView.py
 ```
 2.Proje içerisinde `overView.py` 'ı Başlatın
@@ -82,6 +83,7 @@ This project is a simple YouTube video and audio downloader application made wit
 ```bash
 git clone https://github.com/kaanyagizkilinc/Youtube-Downloader-Bot.git
 cd youtube-downloader-bot
+cd English
 python overView.py
 ```
 ## 📚Notlar
