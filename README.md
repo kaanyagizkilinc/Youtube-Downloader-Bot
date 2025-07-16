@@ -39,10 +39,10 @@ cd youtube-downloader-bot
 ## 📚Notlar
 `yt_bot.py` içerisindeki `ydl_opt.outtmpl` alanına Path vererek indirmek istediğiniz yolu ayarlıya bilirsiniz: 
 ```python
-        ydl_opts = {
-            'format': 'bestvideo+bestaudio',
-            'outtmpl': 'video' #Bu alanı Kayıt Yolu olarak da Kullana bilirsiniz.
-        }
+ydl_opts = {
+        'format': 'bestvideo+bestaudio',
+        'outtmpl': 'video' #Bu alanı Kayıt Yolu olarak da Kullana bilirsiniz.
+}
 ```
 
 
