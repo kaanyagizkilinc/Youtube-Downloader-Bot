@@ -20,7 +20,7 @@ Bu proje, Python ve Tkinter kullanarak yapılmış basit bir YouTube video ve se
 - Python 3.8+
 - `yt_dlp` paketi (`pip install yt-dlp`)
 - `tkinter` (Python ile birlikte gelir)
-- `ffmpeg` (Sistem PATH’ine eklenmiş olmalı)
+- `ffmpeg` (Sistem PATH’ine eklenmiş olmalı)   `https://www.gyan.dev/ffmpeg/builds/`
 
 ---
 
@@ -69,7 +69,8 @@ This project is a simple YouTube video and audio downloader application made wit
 - Python 3.8+  
 - `yt_dlp` package (`pip install yt-dlp`)  
 - `tkinter` (comes with Python)  
-- `ffmpeg` (must be added to system PATH)
+- `ffmpeg` (must be added to system PATH)   `https://www.gyan.dev/ffmpeg/builds/`
+
 
 ---
 
